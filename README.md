@@ -1,4 +1,4 @@
-This is a suite of tools for automating 1D poisson and parsing the output for a multiple quantum well potential.
+This is a suite of tools for automating [1D poisson](http://www.nd.edu/~gsnider/) and parsing the output for a multiple quantum well potential.
 
 To use `batch_run.py`, execute
 
